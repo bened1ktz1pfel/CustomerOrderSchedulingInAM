@@ -1,0 +1,73 @@
+{
+    "Config04Problem7_3022": {
+        "EarlyEnd": false,
+        "Objective Criterion": 2,
+        "Objective Value": 1062.676469,
+        "Permutation": [
+            8,
+            7,
+            4,
+            5,
+            6,
+            12,
+            13,
+            9,
+            10,
+            11,
+            2,
+            3,
+            1,
+            0
+        ],
+        "BatchAllocation": [
+            8,
+            8,
+            7,
+            7,
+            5,
+            5,
+            5,
+            0,
+            0,
+            6,
+            6,
+            6,
+            6,
+            6
+        ],
+        "EndIndices": [
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            4,
+            9,
+            11,
+            13,
+            -1
+        ],
+        "Preprocess Time": 0.0,
+        "Best Constructive Solution": 1388.674442,
+        "Construction Runtime": 0.0020003318786621094,
+        "Improvement Runtime": 900.0042493343353,
+        "Overall Runtime": 900.006249666214,
+        "Feasible Assignments": 187,
+        "PerturbationsRounds": 500735,
+        "AcceptanceCounter": 89543,
+        "AcceptanceRate": 0.17882312999890163,
+        "PackingCalls Construction": 0,
+        "PackingCalls Perturbation": 33,
+        "PackingCalls VNS": 142,
+        "NeighborhoodImprovements": {
+            "3": 2,
+            "2": 1,
+            "0": 3,
+            "1": 1
+        },
+        "SuccessfulPerturbations": 497289,
+        "TimeToBest": 0.013000965118408203,
+        "TimeTo70": 0.15600872039794922,
+        "ObjectiveAt70": 1062.676469
+    }
+}
