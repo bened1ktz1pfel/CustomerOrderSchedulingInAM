@@ -1,0 +1,452 @@
+{
+    "Config06Problem0_22": {
+        "Optimality": 0,
+        "UB": 24662.63490587796,
+        "LB": 167.5257572434768,
+        "Model Runtime": 3600.3007583618164,
+        "Overall Runtime": 3602.764,
+        "Preprocess Runtime": 2.258,
+        "TimeToBest": 3089.0
+    },
+    "Config06Problem0_1022": {
+        "Optimality": 0,
+        "UB": 25140.736596775983,
+        "LB": 160.08906494663103,
+        "Model Runtime": 3600.3297901153564,
+        "Overall Runtime": 3601.428,
+        "Preprocess Runtime": 0.897,
+        "TimeToBest": 880.0
+    },
+    "Config06Problem0_2022": {
+        "Optimality": 0,
+        "UB": 24655.40560602687,
+        "LB": 167.52575728011593,
+        "Model Runtime": 3600.154613494873,
+        "Overall Runtime": 3602.339,
+        "Preprocess Runtime": 1.934,
+        "TimeToBest": 3423.0
+    },
+    "Config06Problem0_3022": {
+        "Optimality": 0,
+        "UB": 24648.175586308065,
+        "LB": 167.52575728046702,
+        "Model Runtime": 3600.2246837615967,
+        "Overall Runtime": 3602.908,
+        "Preprocess Runtime": 2.425,
+        "TimeToBest": 3519.0
+    },
+    "Config06Problem0_4022": {
+        "Optimality": 0,
+        "UB": 24648.174722828942,
+        "LB": 167.5257572804565,
+        "Model Runtime": 3600.195655822754,
+        "Overall Runtime": 3602.033,
+        "Preprocess Runtime": 1.62,
+        "TimeToBest": 1536.0
+    },
+    "Config06Problem1_22": {
+        "Optimality": 0,
+        "UB": 106347.00338262606,
+        "LB": 4181.93189542842,
+        "Model Runtime": 3600.8202743530273,
+        "Overall Runtime": 3607.108,
+        "Preprocess Runtime": 5.82,
+        "TimeToBest": 2399.0
+    },
+    "Config06Problem1_1022": {
+        "Optimality": 0,
+        "UB": 106329.93575229956,
+        "LB": 3770.7493478719844,
+        "Model Runtime": 3600.3317909240723,
+        "Overall Runtime": 3605.154,
+        "Preprocess Runtime": 4.134,
+        "TimeToBest": 1265.0
+    },
+    "Config06Problem1_2022": {
+        "Optimality": 0,
+        "UB": 106329.71864827393,
+        "LB": 4396.65710468152,
+        "Model Runtime": 3600.345106124878,
+        "Overall Runtime": 3604.21,
+        "Preprocess Runtime": 3.537,
+        "TimeToBest": 761.0
+    },
+    "Config06Problem1_3022": {
+        "Optimality": 0,
+        "UB": 106409.02391488104,
+        "LB": 4400.000963422189,
+        "Model Runtime": 3600.613628387451,
+        "Overall Runtime": 3603.537,
+        "Preprocess Runtime": 2.623,
+        "TimeToBest": 2532.0
+    },
+    "Config06Problem1_4022": {
+        "Optimality": 0,
+        "UB": 106329.93611038559,
+        "LB": 4399.991416863042,
+        "Model Runtime": 3600.282745361328,
+        "Overall Runtime": 3603.252,
+        "Preprocess Runtime": 2.629,
+        "TimeToBest": 3324.0
+    },
+    "Config06Problem2_22": {
+        "Optimality": 0,
+        "UB": 15579.087999634745,
+        "LB": 91.75627252696292,
+        "Model Runtime": 3600.3818378448486,
+        "Overall Runtime": 3603.937,
+        "Preprocess Runtime": 3.054,
+        "TimeToBest": 3600.0
+    },
+    "Config06Problem2_1022": {
+        "Optimality": 0,
+        "UB": 13708.135583341249,
+        "LB": 91.77755950350476,
+        "Model Runtime": 3600.941396713257,
+        "Overall Runtime": 3605.771,
+        "Preprocess Runtime": 4.194,
+        "TimeToBest": 3575.0
+    },
+    "Config06Problem2_2022": {
+        "Optimality": 0,
+        "UB": 13803.220256826808,
+        "LB": 91.77147180592765,
+        "Model Runtime": 3601.4489002227783,
+        "Overall Runtime": 3605.997,
+        "Preprocess Runtime": 3.908,
+        "TimeToBest": 2144.0
+    },
+    "Config06Problem2_3022": {
+        "Optimality": 0,
+        "UB": 13984.199818572431,
+        "LB": 91.77757311982714,
+        "Model Runtime": 3600.955404281616,
+        "Overall Runtime": 3604.917,
+        "Preprocess Runtime": 3.459,
+        "TimeToBest": 3407.0
+    },
+    "Config06Problem2_4022": {
+        "Optimality": 0,
+        "UB": 13520.519035653919,
+        "LB": 91.77757311983441,
+        "Model Runtime": 3600.428888320923,
+        "Overall Runtime": 3604.124,
+        "Preprocess Runtime": 3.19,
+        "TimeToBest": 3309.0
+    },
+    "Config06Problem3_22": {
+        "Optimality": 0,
+        "UB": 48421.73040211572,
+        "LB": 22.309451474934527,
+        "Model Runtime": 3601.067518234253,
+        "Overall Runtime": 3606.369,
+        "Preprocess Runtime": 4.45,
+        "TimeToBest": 2784.0
+    },
+    "Config06Problem3_1022": {
+        "Optimality": 0,
+        "UB": 44146.256070320465,
+        "LB": 27.251227647844615,
+        "Model Runtime": 3602.4962577819824,
+        "Overall Runtime": 3607.65,
+        "Preprocess Runtime": 4.685,
+        "TimeToBest": 1107.0
+    },
+    "Config06Problem3_2022": {
+        "Optimality": 0,
+        "UB": 47894.63656291289,
+        "LB": 20.860669439687626,
+        "Model Runtime": 3601.4617881774902,
+        "Overall Runtime": 3607.279,
+        "Preprocess Runtime": 5.102,
+        "TimeToBest": 2856.0
+    },
+    "Config06Problem3_3022": {
+        "Optimality": 0,
+        "UB": 44603.09349374678,
+        "LB": 53.04806492260136,
+        "Model Runtime": 3600.3207817077637,
+        "Overall Runtime": 3607.029,
+        "Preprocess Runtime": 6.145,
+        "TimeToBest": 1373.0
+    },
+    "Config06Problem3_4022": {
+        "Optimality": 0,
+        "UB": 43540.2834650376,
+        "LB": 61.71135743857056,
+        "Model Runtime": 3600.962417602539,
+        "Overall Runtime": 3607.349,
+        "Preprocess Runtime": 5.602,
+        "TimeToBest": 3590.0
+    },
+    "Config06Problem4_22": {
+        "Optimality": 0,
+        "UB": 10567.450698577213,
+        "LB": 85.05324159974407,
+        "Model Runtime": 3602.054494857788,
+        "Overall Runtime": 3606.633,
+        "Preprocess Runtime": 3.911,
+        "TimeToBest": 3600.0
+    },
+    "Config06Problem4_1022": {
+        "Optimality": 0,
+        "UB": 12554.519766042848,
+        "LB": 85.05324159993326,
+        "Model Runtime": 3601.769208908081,
+        "Overall Runtime": 3606.235,
+        "Preprocess Runtime": 3.871,
+        "TimeToBest": 3241.0
+    },
+    "Config06Problem4_2022": {
+        "Optimality": 0,
+        "UB": 13316.468981590062,
+        "LB": 85.05324159979864,
+        "Model Runtime": 3601.356809616089,
+        "Overall Runtime": 3606.64,
+        "Preprocess Runtime": 4.613,
+        "TimeToBest": 2661.0
+    },
+    "Config06Problem4_3022": {
+        "Optimality": 0,
+        "UB": 11346.929390267956,
+        "LB": 85.0532415999705,
+        "Model Runtime": 3600.961410522461,
+        "Overall Runtime": 3605.748,
+        "Preprocess Runtime": 3.854,
+        "TimeToBest": 3184.0
+    },
+    "Config06Problem4_4022": {
+        "Optimality": 0,
+        "UB": 11365.32845483459,
+        "LB": 85.05324159970287,
+        "Model Runtime": 3601.318769454956,
+        "Overall Runtime": 3607.99,
+        "Preprocess Runtime": 5.793,
+        "TimeToBest": 3575.0
+    },
+    "Config06Problem5_22": {
+        "Optimality": 0,
+        "UB": 51803.655168242745,
+        "LB": 3436.938988134334,
+        "Model Runtime": 3600.353811264038,
+        "Overall Runtime": 3610.401,
+        "Preprocess Runtime": 9.258,
+        "TimeToBest": 3600.0
+    },
+    "Config06Problem5_1022": {
+        "Optimality": 0,
+        "UB": 47549.60675231863,
+        "LB": 3279.110533054342,
+        "Model Runtime": 3600.57022857666,
+        "Overall Runtime": 3607.935,
+        "Preprocess Runtime": 6.629,
+        "TimeToBest": 3120.0
+    },
+    "Config06Problem5_2022": {
+        "Optimality": 0,
+        "UB": 52883.33707210773,
+        "LB": 3436.664288198568,
+        "Model Runtime": 3600.801254272461,
+        "Overall Runtime": 3607.389,
+        "Preprocess Runtime": 6.023,
+        "TimeToBest": 3547.0
+    },
+    "Config06Problem5_3022": {
+        "Optimality": 0,
+        "UB": 46267.311294094645,
+        "LB": 3243.181157022119,
+        "Model Runtime": 3601.255708694458,
+        "Overall Runtime": 3608.044,
+        "Preprocess Runtime": 5.699,
+        "TimeToBest": 2343.0
+    },
+    "Config06Problem5_4022": {
+        "Optimality": 0,
+        "UB": 45548.556059086506,
+        "LB": 3424.852955776454,
+        "Model Runtime": 3600.998453140259,
+        "Overall Runtime": 3610.38,
+        "Preprocess Runtime": 8.316,
+        "TimeToBest": 3561.0
+    },
+    "Config06Problem6_22": {
+        "Optimality": 0,
+        "UB": 41000.85079660531,
+        "LB": 114.7505737685382,
+        "Model Runtime": 3600.438112258911,
+        "Overall Runtime": 3606.365,
+        "Preprocess Runtime": 5.367,
+        "TimeToBest": 3600.0
+    },
+    "Config06Problem6_1022": {
+        "Optimality": 0,
+        "UB": 46246.389345024305,
+        "LB": 116.68739275266202,
+        "Model Runtime": 3600.5550117492676,
+        "Overall Runtime": 3606.178,
+        "Preprocess Runtime": 4.849,
+        "TimeToBest": 3280.0
+    },
+    "Config06Problem6_2022": {
+        "Optimality": 0,
+        "UB": 45328.28841277129,
+        "LB": 116.68760493251234,
+        "Model Runtime": 3601.3197689056396,
+        "Overall Runtime": 3607.732,
+        "Preprocess Runtime": 5.589,
+        "TimeToBest": 3411.0
+    },
+    "Config06Problem6_3022": {
+        "Optimality": 0,
+        "UB": 44440.25739354283,
+        "LB": 77.49794962448355,
+        "Model Runtime": 3600.7431964874268,
+        "Overall Runtime": 3605.6,
+        "Preprocess Runtime": 4.164,
+        "TimeToBest": 3586.0
+    },
+    "Config06Problem6_4022": {
+        "Optimality": 0,
+        "UB": 44805.64214352992,
+        "LB": 73.34290399970088,
+        "Model Runtime": 3600.840295791626,
+        "Overall Runtime": 3608.852,
+        "Preprocess Runtime": 7.12,
+        "TimeToBest": 1465.0
+    },
+    "Config06Problem7_22": {
+        "Optimality": 0,
+        "UB": 51431.75990942354,
+        "LB": 13.27560244916026,
+        "Model Runtime": 3601.1295776367188,
+        "Overall Runtime": 3610.581,
+        "Preprocess Runtime": 8.299,
+        "TimeToBest": 3351.0
+    },
+    "Config06Problem7_1022": {
+        "Optimality": 0,
+        "UB": 50571.471785332666,
+        "LB": 47.97667494415794,
+        "Model Runtime": 3601.2817306518555,
+        "Overall Runtime": 3612.28,
+        "Preprocess Runtime": 9.885,
+        "TimeToBest": 3559.0
+    },
+    "Config06Problem7_2022": {
+        "Optimality": 0,
+        "UB": 52833.78726600574,
+        "LB": 89.41337063180465,
+        "Model Runtime": 3600.575029373169,
+        "Overall Runtime": 3614.687,
+        "Preprocess Runtime": 13.1,
+        "TimeToBest": 2907.0
+    },
+    "Config06Problem7_3022": {
+        "Optimality": 0,
+        "UB": 51639.63379336233,
+        "LB": 46.09724159977941,
+        "Model Runtime": 3600.967420578003,
+        "Overall Runtime": 3609.301,
+        "Preprocess Runtime": 7.193,
+        "TimeToBest": 3423.0
+    },
+    "Config06Problem7_4022": {
+        "Optimality": 0,
+        "UB": 50462.25963796458,
+        "LB": 96.43142202409406,
+        "Model Runtime": 3601.0147819519043,
+        "Overall Runtime": 3609.54,
+        "Preprocess Runtime": 7.597,
+        "TimeToBest": 3487.0
+    },
+    "Config06Problem8_22": {
+        "Optimality": 0,
+        "UB": 18677.314621706166,
+        "LB": 172.768859519998,
+        "Model Runtime": 3600.699151992798,
+        "Overall Runtime": 3606.096,
+        "Preprocess Runtime": 4.891,
+        "TimeToBest": 3600.0
+    },
+    "Config06Problem8_1022": {
+        "Optimality": 0,
+        "UB": 17188.536434535443,
+        "LB": 172.7688595201107,
+        "Model Runtime": 3601.390844345093,
+        "Overall Runtime": 3605.263,
+        "Preprocess Runtime": 3.137,
+        "TimeToBest": 3501.0
+    },
+    "Config06Problem8_2022": {
+        "Optimality": 0,
+        "UB": 16608.88760353619,
+        "LB": 172.76885952001635,
+        "Model Runtime": 3601.3788261413574,
+        "Overall Runtime": 3608.04,
+        "Preprocess Runtime": 6.238,
+        "TimeToBest": 1259.0
+    },
+    "Config06Problem8_3022": {
+        "Optimality": 0,
+        "UB": 16820.30366652215,
+        "LB": 172.76885951990334,
+        "Model Runtime": 3601.282735824585,
+        "Overall Runtime": 3605.3,
+        "Preprocess Runtime": 3.428,
+        "TimeToBest": 3513.0
+    },
+    "Config06Problem8_4022": {
+        "Optimality": 0,
+        "UB": 17234.228902688697,
+        "LB": 172.76885952003994,
+        "Model Runtime": 3601.151601791382,
+        "Overall Runtime": 3605.092,
+        "Preprocess Runtime": 3.239,
+        "TimeToBest": 3108.0
+    },
+    "Config06Problem9_22": {
+        "Optimality": 0,
+        "UB": 52978.89584566073,
+        "LB": 114.56157701526905,
+        "Model Runtime": 3600.937395095825,
+        "Overall Runtime": 3606.881,
+        "Preprocess Runtime": 4.974,
+        "TimeToBest": 2869.0
+    },
+    "Config06Problem9_1022": {
+        "Optimality": 0,
+        "UB": 48043.47894826089,
+        "LB": 106.21633839974913,
+        "Model Runtime": 3600.326784133911,
+        "Overall Runtime": 3606.208,
+        "Preprocess Runtime": 5.028,
+        "TimeToBest": 3437.0
+    },
+    "Config06Problem9_2022": {
+        "Optimality": 0,
+        "UB": 51973.17197452799,
+        "LB": 8.3863383999719,
+        "Model Runtime": 3601.556007385254,
+        "Overall Runtime": 3608.541,
+        "Preprocess Runtime": 6.473,
+        "TimeToBest": 3218.0
+    },
+    "Config06Problem9_3022": {
+        "Optimality": 0,
+        "UB": 51762.054353332955,
+        "LB": 112.19498211831151,
+        "Model Runtime": 3601.1297855377197,
+        "Overall Runtime": 3605.556,
+        "Preprocess Runtime": 3.672,
+        "TimeToBest": 2520.0
+    },
+    "Config06Problem9_4022": {
+        "Optimality": 0,
+        "UB": 50728.27339773202,
+        "LB": 114.34439615313022,
+        "Model Runtime": 3600.454912185669,
+        "Overall Runtime": 3611.481,
+        "Preprocess Runtime": 10.12,
+        "TimeToBest": 3512.0
+    }
+}
