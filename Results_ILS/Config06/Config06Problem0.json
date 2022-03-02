@@ -1,0 +1,318 @@
+{
+    "Problem Class": "Config06Problem0",
+    "InstanceId": "",
+    "PartTypes": {
+        "0": {
+            "Height": 10.77,
+            "Length": 269.75,
+            "Width": 1,
+            "Area": 269.75,
+            "Volume": 1928.6
+        },
+        "1": {
+            "Height": 3.0,
+            "Length": 615.12,
+            "Width": 1,
+            "Area": 615.12,
+            "Volume": 722.91
+        },
+        "2": {
+            "Height": 13.87,
+            "Length": 71.15,
+            "Width": 1,
+            "Area": 71.15,
+            "Volume": 670.69
+        },
+        "3": {
+            "Height": 22.73,
+            "Length": 161.49,
+            "Width": 1,
+            "Area": 161.49,
+            "Volume": 991.45
+        },
+        "4": {
+            "Height": 27.94,
+            "Length": 56.85,
+            "Width": 1,
+            "Area": 56.85,
+            "Volume": 272.92
+        },
+        "5": {
+            "Height": 13.09,
+            "Length": 99.36,
+            "Width": 1,
+            "Area": 99.36,
+            "Volume": 285.37
+        },
+        "6": {
+            "Height": 14.06,
+            "Length": 198.55,
+            "Width": 1,
+            "Area": 198.55,
+            "Volume": 800.72
+        },
+        "7": {
+            "Height": 9.18,
+            "Length": 728.33,
+            "Width": 1,
+            "Area": 728.33,
+            "Volume": 1193.36
+        },
+        "8": {
+            "Height": 20.64,
+            "Length": 102.37,
+            "Width": 1,
+            "Area": 102.37,
+            "Volume": 1348.0
+        },
+        "9": {
+            "Height": 38.82,
+            "Length": 62.97,
+            "Width": 1,
+            "Area": 62.97,
+            "Volume": 1599.67
+        }
+    },
+    "Materials": 5,
+    "Machines": {
+        "0": {
+            "MachineId": 0,
+            "Area": 1000.0,
+            "Height": 40.0,
+            "Length": 1000.0,
+            "Width": 1,
+            "Materials": [
+                0,
+                4
+            ],
+            "MaterialSetup": 2.0,
+            "SmallSetup": 1.34,
+            "ScanTime": 0.030864,
+            "RecoatTime": 1.0,
+            "RemovalTime": 1.0
+        },
+        "1": {
+            "MachineId": 1,
+            "Area": 1000.0,
+            "Height": 40.0,
+            "Length": 1000.0,
+            "Width": 1,
+            "Materials": [
+                1,
+                3
+            ],
+            "MaterialSetup": 1.83,
+            "SmallSetup": 1.58,
+            "ScanTime": 0.030864,
+            "RecoatTime": 1.0,
+            "RemovalTime": 0.83
+        },
+        "2": {
+            "MachineId": 2,
+            "Area": 1000.0,
+            "Height": 40.0,
+            "Length": 1000.0,
+            "Width": 1,
+            "Materials": [
+                1
+            ],
+            "MaterialSetup": 2.33,
+            "SmallSetup": 1.7200000000000002,
+            "ScanTime": 0.030864,
+            "RecoatTime": 1.0,
+            "RemovalTime": 1.33
+        },
+        "3": {
+            "MachineId": 3,
+            "Area": 1200.0,
+            "Height": 40.0,
+            "Length": 1200.0,
+            "Width": 1,
+            "Materials": [
+                2,
+                3
+            ],
+            "MaterialSetup": 3.0300000000000002,
+            "SmallSetup": 2.08,
+            "ScanTime": 0.030864,
+            "RecoatTime": 0.7,
+            "RemovalTime": 1.83
+        },
+        "4": {
+            "MachineId": 4,
+            "Area": 1200.0,
+            "Height": 40.0,
+            "Length": 1200.0,
+            "Width": 1,
+            "Materials": [
+                0
+            ],
+            "MaterialSetup": 3.0300000000000002,
+            "SmallSetup": 2.08,
+            "ScanTime": 0.030864,
+            "RecoatTime": 0.7,
+            "RemovalTime": 1.83
+        }
+    },
+    "Orders": {
+        "0": {
+            "OrderId": 0,
+            "DueDate": 36,
+            "ReleaseDate": 0,
+            "PenaltyCost": 3,
+            "OrderList": [
+                {
+                    "PartType": 3,
+                    "Quantity": 3,
+                    "Material": 1,
+                    "Quality": 0
+                }
+            ]
+        },
+        "1": {
+            "OrderId": 1,
+            "DueDate": 108,
+            "ReleaseDate": 0,
+            "PenaltyCost": 9,
+            "OrderList": [
+                {
+                    "PartType": 3,
+                    "Quantity": 2,
+                    "Material": 1,
+                    "Quality": 0
+                },
+                {
+                    "PartType": 6,
+                    "Quantity": 2,
+                    "Material": 2,
+                    "Quality": 0
+                },
+                {
+                    "PartType": 9,
+                    "Quantity": 5,
+                    "Material": 2,
+                    "Quality": 0
+                }
+            ]
+        },
+        "2": {
+            "OrderId": 2,
+            "DueDate": 36,
+            "ReleaseDate": 0,
+            "PenaltyCost": 3,
+            "OrderList": [
+                {
+                    "PartType": 4,
+                    "Quantity": 2,
+                    "Material": 0,
+                    "Quality": 0
+                },
+                {
+                    "PartType": 8,
+                    "Quantity": 1,
+                    "Material": 1,
+                    "Quality": 0
+                }
+            ]
+        },
+        "3": {
+            "OrderId": 3,
+            "DueDate": 12,
+            "ReleaseDate": 0,
+            "PenaltyCost": 1,
+            "OrderList": [
+                {
+                    "PartType": 4,
+                    "Quantity": 1,
+                    "Material": 0,
+                    "Quality": 0
+                }
+            ]
+        },
+        "4": {
+            "OrderId": 4,
+            "DueDate": 276,
+            "ReleaseDate": 0,
+            "PenaltyCost": 23,
+            "OrderList": [
+                {
+                    "PartType": 0,
+                    "Quantity": 5,
+                    "Material": 2,
+                    "Quality": 0
+                },
+                {
+                    "PartType": 1,
+                    "Quantity": 5,
+                    "Material": 4,
+                    "Quality": 0
+                },
+                {
+                    "PartType": 5,
+                    "Quantity": 4,
+                    "Material": 4,
+                    "Quality": 0
+                },
+                {
+                    "PartType": 6,
+                    "Quantity": 2,
+                    "Material": 2,
+                    "Quality": 0
+                },
+                {
+                    "PartType": 8,
+                    "Quantity": 3,
+                    "Material": 1,
+                    "Quality": 0
+                },
+                {
+                    "PartType": 9,
+                    "Quantity": 4,
+                    "Material": 2,
+                    "Quality": 0
+                }
+            ]
+        },
+        "5": {
+            "OrderId": 5,
+            "DueDate": 96,
+            "ReleaseDate": 0,
+            "PenaltyCost": 8,
+            "OrderList": [
+                {
+                    "PartType": 0,
+                    "Quantity": 2,
+                    "Material": 2,
+                    "Quality": 0
+                },
+                {
+                    "PartType": 2,
+                    "Quantity": 5,
+                    "Material": 3,
+                    "Quality": 0
+                },
+                {
+                    "PartType": 7,
+                    "Quantity": 1,
+                    "Material": 0,
+                    "Quality": 0
+                }
+            ]
+        },
+        "6": {
+            "OrderId": 6,
+            "DueDate": 60,
+            "ReleaseDate": 0,
+            "PenaltyCost": 5,
+            "OrderList": [
+                {
+                    "PartType": 6,
+                    "Quantity": 5,
+                    "Material": 2,
+                    "Quality": 0
+                }
+            ]
+        }
+    },
+    "TotalPartsToSchedule": 52
+}
